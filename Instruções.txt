@@ -1,0 +1,10 @@
+//Criando um objeto
+const person = {
+  age: 18,
+  drive: function() {}
+}
+
+//usando um objeto
+person.drive()
+
+//OBS: o . serve para acessar
